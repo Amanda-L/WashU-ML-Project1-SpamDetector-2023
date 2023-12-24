@@ -43,7 +43,7 @@ The assignment was to build an email spam detection, tasked with implementing an
     - Adjust the `STEPSIZE` parameter as needed.
 
 11. **Final Spam Filter:**
-    - Modify `trainspamfilter.py` to use the desired loss function, settings, and parameters for your final spam filter.
+    - Modify `trainspamfilter.py` to use the desired loss function, settings, and parameters for the final spam filter.
     - Train the spam filter by running `project1Main.py` or `spamdemo.py`.
 
 
