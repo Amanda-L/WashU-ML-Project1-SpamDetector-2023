@@ -1,4 +1,4 @@
-# ML Project 1: Email Spam Detector- Structural Risk Minimization
+# WashU ML Project 1: Email Spam Detector- Structural Risk Minimization
 
 ![image](https://github.com/Amanda-L/WashU-ML-Project1-StructuralRiskMinimization-2023/assets/52643725/f01ddf24-fdce-4bfc-bf3c-71d4fc6875a2)
 
