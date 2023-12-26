@@ -24,7 +24,7 @@ The assignment was to build an email spam detection, tasked with implementing an
    - Check the gradients using provided code in `checkgradHingeAndRidge.py` and `checkgradLogistic.py`.
 
 5. **False Positive Rate, True Positive Rate, and AUC:**
-   - Understand and interpret the outputs of the spam filter, including false positive rate, true positive rate, and area under the curve (AUC).
+   - Outputs of the spam filter, including false positive rate, true positive rate, and area under the curve (AUC).
 
 6. **Demo and Misclassified Emails:**
    - Use `spamdemo.py` to identify misclassified emails and observe which emails get classified incorrectly.
