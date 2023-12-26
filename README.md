@@ -15,7 +15,7 @@ The assignment was to build an email spam detection, tasked with implementing an
    - Include a tolerance variable to stop early if the norm of the gradient is below a specified value.
    
 3. **Linear Model Prediction:**
-   - Write the `linearmodel` function to return predictions for a weight vector `w` and a dataset `xTv`.
+   - The `linearmodel` function to return predictions for a weight vector `w` and a dataset `xTv`.
      
 4. **Implement Ridge, Hinge and Logistic Loss:**
    - Implement the `ridge.py` function to compute the loss and gradient for a dataset using ridge regression.
