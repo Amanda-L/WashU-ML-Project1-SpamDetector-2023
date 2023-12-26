@@ -11,9 +11,9 @@ The assignment was to build an email spam detection, tasked with implementing an
 
 2. **Gradient Descent:**
    - Implement the `grdescent.py` function for gradient descent.
+   - Use stochastic-gradient descent. 
    - Include a tolerance variable to stop early if the norm of the gradient is below a specified value.
-   - Choose a step-size strategy for gradient descent.
-
+   
 3. **Linear Model Prediction:**
    - Write the `linearmodel` function to return predictions for a weight vector `w` and a dataset `xTv`.
      
